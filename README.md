@@ -1,0 +1,4 @@
+- 👋 Hi, Ich bin @urbanbackdev
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C#, Lua and Javascript
+- 📫 You can contact me on Discord: UrbanBack#4148
